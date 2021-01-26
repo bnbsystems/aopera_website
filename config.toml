@@ -86,9 +86,9 @@ mobile = "0124857985320"
 email = "kontakt [małpa] aoperat.pl"
 location = "kraków 31-414, ul. Celarowska 18"
 # contact form action
-contact_form_action = "#" # contact form works with : https://formspree.io
+contact_form_action = "https://formspree.io/myykjpje" # contact form works with : https://formspree.io
 # Google Analitycs
-google_analitycs_id = "" # Your ID# search
+google_analitycs_id = "G-V71K9QBHRC" # Your ID# search
 # multi-author support (if set to true, you must use an Array in the author field)
 multi_author = false
 
@@ -142,64 +142,49 @@ icon = "ion-social-facebook-outline" #ionicon pack v2 : https://ionicons.com/v2/
 link = "#"
 
 
-################################ English Language ########################
+################################ Polish Language ########################
 [Languages.pl]
 languageName = "Pl"
 languageCode = "pl-pl"
 contentDir = "content/polish"
 weight = 1
 # copyright
-copyright = "Copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved"
+copyright = "Copyright &copy; 2020 aoperat.pl Wszelkie prawa zastzerzone"
 
 
-######################### english navigation #############################
+######################### polish navigation #############################
 # main menu
 [[Languages.pl.menu.main]]
 name = "O Nas"
 URL = "about"
 weight = 1
 
+
+[[Languages.pl.menu.main]]
+name = "O Platformie"
+URL = "platform"
+weight = 2
+
 [[Languages.pl.menu.main]]
 name = "Wyceń nieruchomość"
-URL = "price"
-weight = 2
+URL = "https://forms.gle/hWLpbgDHWYJrHk9H8"
+weight = 3
 
 [[Languages.pl.menu.main]]
 name = "Panel rzeczoznawcy"
 URL = "panel"
-weight = 3
+weight = 4
 
 [[Languages.pl.menu.main]]
 name = "Blog"
 URL = "blog"
-weight = 4
+weight = 5
 
 
 [[Languages.pl.menu.main]]
 name = "Kontakt"
 URL = "contact"
 weight = 6
-
-[[Languages.pl.menu.main]]
-weight = 5
-name = "Pages"
-hasChildren = true
-
-  [[Languages.pl.menu.main]]
-  parent = "Pages"
-  name = "FAQ"
-  URL = "faq"
-
-  [[Languages.pl.menu.main]]
-  parent = "Pages"
-  name = "Pricing"
-  URL = "pricing"
-
-  [[Languages.pl.menu.main]]
-  parent = "Pages"
-  name = "Service"
-  URL = "service"
-  
 
 
 
