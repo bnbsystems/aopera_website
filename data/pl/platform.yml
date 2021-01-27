@@ -1,0 +1,40 @@
+########################### about service #############################
+about:
+  enable : true
+  title : "Wspólpraca z rzeczoznawcami"
+  content : "Wyróżnia nas cieżka i przyjemna praca z rzeczoznawcami."
+  image : "images/company/company-group-pic.jpg"
+
+
+########################## featured service ############################
+featured_service:
+  enable : true
+  service_item:
+    # featured service item loop
+    - name : "Interface Design"
+      icon : "ion-erlenmeyer-flask"
+      color : "primary"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
+      
+    # featured service item loop
+    - name : "Product Branding"
+      icon : "ion-leaf"
+      color : "primary-dark"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
+      
+    # featured service item loop
+    - name : "Game Development"
+      icon : "ion-lightbulb"
+      color : "primary-darker"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
+
+      
+############################# Service ###############################
+
+
+
+      
+############################# call to action #################################
+cta:
+  enable : true
+  # call to action content comes from "data/*/homepage.yml"

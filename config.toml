@@ -71,7 +71,7 @@ attributes = "defer"
 ############################### widgets #################################
 
 [params.widgets]
-sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
+sidebar = ["recent_posts", "taxonomy_tags"]
 
 
 #################### default parameters ################################
@@ -84,7 +84,7 @@ author = "aoperat.pl"
 # Contact Information
 mobile = "0124857985320"
 email = "kontakt [małpa] aoperat.pl"
-location = "kraków 31-414, ul. Celarowska 18"
+location = "Kraków 31-414, ul. Celarowska 18"
 # contact form action
 contact_form_action = "https://formspree.io/myykjpje" # contact form works with : https://formspree.io
 # Google Analitycs
@@ -161,30 +161,36 @@ weight = 1
 
 
 [[Languages.pl.menu.main]]
+name = "O Operacie"
+URL = "feature"
+weight = 2
+
+
+[[Languages.pl.menu.main]]
 name = "O Platformie"
 URL = "platform"
-weight = 2
+weight = 3
 
 [[Languages.pl.menu.main]]
 name = "Wyceń nieruchomość"
 URL = "https://forms.gle/hWLpbgDHWYJrHk9H8"
-weight = 3
+weight = 4
 
 [[Languages.pl.menu.main]]
 name = "Panel rzeczoznawcy"
 URL = "panel"
-weight = 4
+weight = 5
 
 [[Languages.pl.menu.main]]
-name = "Blog"
+name = "Aktualności"
 URL = "blog"
-weight = 5
+weight = 6
 
 
 [[Languages.pl.menu.main]]
 name = "Kontakt"
 URL = "contact"
-weight = 6
+weight = 7
 
 
 
@@ -194,27 +200,13 @@ name = "O Nas"
 URL = "about"
 weight = 1
 
-[[Languages.pl.menu.footer]]
-name = "Project"
-URL = "project"
-weight = 2
-
-[[Languages.pl.menu.footer]]
-name = "Service"
-URL = "service"
-weight = 3
-
-[[Languages.pl.menu.footer]]
-name = "Pricing"
-URL = "pricing"
-weight = 4
 
 [[Languages.pl.menu.footer]]
 name = "FAQ"
 URL = "faq"
-weight = 5
+weight = 2
 
 [[Languages.pl.menu.footer]]
 name = "Kontakt"
 URL = "contact"
-weight = 6
+weight = 3
