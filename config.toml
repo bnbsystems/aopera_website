@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "http://examplesite.org"
+baseURL = "aoperat.pl"
 title = "A Operat .pl"
 theme = "airspace-hugo"
 #themesDir = "../.."
