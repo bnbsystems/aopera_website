@@ -44,7 +44,7 @@ about:
 ################################ feature #####################################
 features:
   enable : true
-  title : "We are indepented Design & Development Agency"
+  title : "Budujemy platforme do komunikacji z rzeczoznawcami. Wycenimy Twoją nieruchomość"
   feature_item:
     # feature item loop
     - icon : "ion-ios-color-filter-outline" #ionicon pack v2 : https://ionicons.com/v2/
