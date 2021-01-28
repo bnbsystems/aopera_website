@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on A Operat .pl</title>
-    <link>aoperat.pl/author/</link>
+    <link>https://aoperat.pl/author/</link>
     <description>Recent content in Authors on A Operat .pl</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pl-pl</language>
-    <copyright>Copyright &amp;copy; 2020 aoperat.pl Wszelkie prawa zastzerzone</copyright><atom:link href="aoperat.pl/author/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright &amp;copy; 2020 aoperat.pl Wszelkie prawa zastzerzone</copyright><atom:link href="https://aoperat.pl/author/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Arek</title>
-      <link>aoperat.pl/author/arek/</link>
+      <link>https://aoperat.pl/author/arek/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>aoperat.pl/author/arek/</guid>
+      <guid>https://aoperat.pl/author/arek/</guid>
       <description></description>
     </item>
     
