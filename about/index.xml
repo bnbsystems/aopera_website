@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>O nas on A Operat .pl</title>
-    <link>http://examplesite.org/about/</link>
+    <link>aoperat.pl/about/</link>
     <description>Recent content in O nas on A Operat .pl</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pl-pl</language>
-    <copyright>Copyright &amp;copy; 2020 aoperat.pl Wszelkie prawa zastzerzone</copyright><atom:link href="http://examplesite.org/about/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright &amp;copy; 2020 aoperat.pl Wszelkie prawa zastzerzone</copyright><atom:link href="aoperat.pl/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
