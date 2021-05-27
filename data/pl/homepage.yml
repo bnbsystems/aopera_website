@@ -28,7 +28,7 @@ about:
 portfolio:
   enable : true
   bg_image : "images/featue-bg.jpg"
-  title : "Wiemy ze operaty szacunkowe można zrobić dobrze."
+  title : "Wiemy, że operaty szacunkowe można zrobić szybko i dokładnie."
   content : ""
   button:
     enable : true

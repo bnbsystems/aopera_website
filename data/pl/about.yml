@@ -2,7 +2,7 @@
 about:
   enable : true
   image : "images/company/about.jpg"
-  title : "Pomagamy okreslić wartość nieruchomości w szybki czasie."
+  title : "Pomagamy okreslić wartość nieruchomości, szybko i dokładnie."
   content : "W naszej codziennej pracy zauważyliśmy, że klienci za długo czekają na wykonanie operatu szacunkowego. Operaty między rzeczoznawcami są różnej jakości, nie ma standardów szablonu dokumentu. Dlatego stworzyliśmy platformę do szybkiego i dokładnego generowania operatów szacunkowych, dzięki której możesz jak najszybciej działać."
 
   button:
@@ -48,33 +48,33 @@ features:
   feature_item:
     # feature item loop
     - icon : "ion-ios-color-filter-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "IOS App Development"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      name : "Łączymy"
+      content : "Łączymy rzeczoznawców i zleceniodawców"
       
     # feature item loop
     - icon : "ion-ios-unlocked-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "App Secutity"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      name : "Bezpieczeństwo"
+      content : "Cała platforma jest zabezpieczona i trzymana w chmurze."
       
     # feature item loop
-    - icon : "ion-ios-game-controller-b-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Games Development"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+    - icon : "ion-leaf" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Podpis cyfrowy"
+      content : "Jesteśmy eko. Nie drukujemy operatu jezeli nie ma potrzeby"
       
     # feature item loop
-    - icon : "ion-ios-mic-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Animation and Editing"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+    - icon : "ion-clock" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Szybkość"
+      content : "Najszybszy sposób na uzyskanie operatu."
       
     # feature item loop
-    - icon : "ion-ios-lightbulb-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "UI/UX Design"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+    - icon : "ion-android-options" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Dokładna wycena operatu"
+      content : "Wyceniamy nieruchomość w sposób ustandaryzowany i zgodnie z metodologią "
       
     # feature item loop
-    - icon : "ion-ios-star-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Branding"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+    - icon : "ion-android-done-all" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Podwójne sprawdzenie"
+      content : "Każdy operat jest sprawdzony przez dodatkowego rzeczoznawcy"
     
 
 #################################### testimonial & mission vision #######################################
@@ -86,37 +86,16 @@ mission_vision:
   enable : true
   tabs:
     # tab item loop
-    - name : "Vision"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore nobis ducimus facere repellat
-      harum, eius cupiditate, aliquam aut deserunt. Nemo illo ex impedit autem quod nobis architecto, velit
-      quasi, aut voluptas porro natus. Fuga magnam perspiciatis fugit, placeat possimus officia non ducimus
-      voluptatum aspernatur ad quidem neque accusantium repudiandae cupiditate nobis corporis, cum facere
-      iusto, modi cumque consectetur saepe. Officia, molestiae tempore! Consequatur ipsa consequuntur saepe
-      suscipit vero laudantium, mollitia, quaerat soluta nihil non tempore, quos dignissimos quasi ab officiis
-      illum numquam quibusdam ducimus, veritatis ad. Quia, aliquid. Quaerat quos ducimus ipsam amet minus
-      temporibus eos sequi alias hic nemo."
+    - name : "Wizja"
+      content : "Naszą wizja jest świat, gdzie uczciwie można kupić nieruchomość za realną cenę."
       
     # tab item loop
-    - name : "Mission"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore nobis ducimus facere repellat
-      harum, eius cupiditate, aliquam aut deserunt. Nemo illo ex impedit autem quod nobis architecto, velit
-      quasi, aut voluptas porro natus. Fuga magnam perspiciatis fugit, placeat possimus officia non ducimus
-      voluptatum aspernatur ad quidem neque accusantium repudiandae cupiditate nobis corporis, cum facere
-      iusto, modi cumque consectetur saepe. Officia, molestiae tempore! Consequatur ipsa consequuntur saepe
-      suscipit vero laudantium, mollitia, quaerat soluta nihil non tempore, quos dignissimos quasi ab officiis
-      illum numquam quibusdam ducimus, veritatis ad. Quia, aliquid. Quaerat quos ducimus ipsam amet minus
-      temporibus eos sequi alias hic nemo."
+    - name : "Misja"
+      content : "Służymy zleceniodawcom operatów szczacunkowych, aby najszybiej mogli uzyskać dokładne operaty. "
       
     # tab item loop
-    - name : "Approach"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore nobis ducimus facere repellat
-      harum, eius cupiditate, aliquam aut deserunt. Nemo illo ex impedit autem quod nobis architecto, velit
-      quasi, aut voluptas porro natus. Fuga magnam perspiciatis fugit, placeat possimus officia non ducimus
-      voluptatum aspernatur ad quidem neque accusantium repudiandae cupiditate nobis corporis, cum facere
-      iusto, modi cumque consectetur saepe. Officia, molestiae tempore! Consequatur ipsa consequuntur saepe
-      suscipit vero laudantium, mollitia, quaerat soluta nihil non tempore, quos dignissimos quasi ab officiis
-      illum numquam quibusdam ducimus, veritatis ad. Quia, aliquid. Quaerat quos ducimus ipsam amet minus
-      temporibus eos sequi alias hic nemo."
+    - name : "Podejście"
+      content : "Operaty wykonane są przez licencjonowanych zleceniodawców, ustandaryzowane i sprawdzane przez dodatkowe osoby. Operaty są podpisane podpisem cyfrowym jako pełnoprawny dokument. Dane są zabezpieczone i trzymane przez certyfikowanego dostawcy rozwiązania w chmurze. "
 
 
 ############################# call to action #################################
