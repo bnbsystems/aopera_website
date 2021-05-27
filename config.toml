@@ -82,11 +82,11 @@ logo_width = "150px"
 description = "Wycena nieruchomości"
 author = "aoperat.pl"
 # Contact Information
-mobile = "0124857985320"
+mobile = ""
 email = "kontakt [małpa] aoperat.pl"
-location = "Kraków 31-414, ul. Celarowska 18"
+location = "Pińczów 28-400, 18"
 # contact form action
-contact_form_action = "https://formspree.io/myykjpje" # contact form works with : https://formspree.io
+contact_form_action = "https://formspree.io/myykjpje" # contact form work's with : https://formspree.io
 # Google Analitycs
 google_analitycs_id = "G-V71K9QBHRC" # Your ID# search
 # multi-author support (if set to true, you must use an Array in the author field)
