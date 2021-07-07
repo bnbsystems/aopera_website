@@ -94,7 +94,7 @@
         <form class="loginbox" autocomplete="off">
           <input placeholder="login" type="text" id="username"></input>
           <input placeholder="hasło" type="password" id="password"></input>
-      <button id="submit">Login</button>
+      <button id="submit" onclick="getInputValue()">Login</button>
       </form>
       </section>
 
@@ -102,16 +102,15 @@
   </div>
 </section>
 
-<script >
-    $(document).ready(function() {
-        $('#username').focus();
-    
-        $('#submit').click(function() {
+<script type="text/javascript">
+    function getInputValue(){
             event.preventDefault(); // prevent PageReLoad
-            $('.error').css('display', 'block'); // show error msg
-
-        });
-    });
+            var username = document.getElementById("username").value;
+            var password = document.getElementById("password").value;
+            console.log(username);
+            console.log(password);
+            location.href = 'https://aoperat.azurewebsites.net';
+        }
 
 </script>
 

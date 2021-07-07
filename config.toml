@@ -178,7 +178,7 @@ weight = 4
 
 [[Languages.pl.menu.main]]
 name = "Panel rzeczoznawcy"
-URL = "panel"
+URL = "https://aoperat.azurewebsites.net/"
 weight = 5
 
 [[Languages.pl.menu.main]]
