@@ -3,11 +3,11 @@ banner:
   enable : true
   bg_image : "images/slider-bg.jpg"
   bg_overlay : true
-  title : "ILE JEST WARTE TO MIESZKANIE"
-  content : "We love the Web and the work we do.We work closely with our clients to deliver  the best possible solutions for their needs"
+  title : "ILE JEST WARTA TA NIERUCHOMOŚĆ"
+  content : "Kochamy nieruchomości oraz pracę związaną z nimi. Pracujemy blisko z klientami, aby szybko dostarczyć operaty nieruchomości w sposób dokladny i ustandaryzowany."
   button:
     enable : true
-    label : "Wyceń swoją nieruchomość"
+    label : "Wyceń nieruchomość"
     link : "https://forms.gle/hWLpbgDHWYJrHk9H8"
 
 ############################# About #################################
