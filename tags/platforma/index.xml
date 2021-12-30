@@ -7,14 +7,23 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>pl-pl</language>
     <copyright>Copyright &amp;copy; 2020 aoperat.pl Wszelkie prawa zastzerzone</copyright>
-    <lastBuildDate>Wed, 27 Jan 2021 17:07:10 +0600</lastBuildDate><atom:link href="https://aoperat.pl/tags/platforma/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 30 Dec 2021 14:07:10 +0600</lastBuildDate><atom:link href="https://aoperat.pl/tags/platforma/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mamy prototyp</title>
+      <link>https://aoperat.pl/blog/first-demo/</link>
+      <pubDate>Thu, 30 Dec 2021 14:07:10 +0600</pubDate>
+      
+      <guid>https://aoperat.pl/blog/first-demo/</guid>
+      <description>Przygotowaliśmy krótki filmik przedstawiający naszą platformę. Cały zespoł pracował nad pomysłem, implementacją, bezpieczeństwem danych, skalowalnością i uzytecznością dla klientów.</description>
+    </item>
+    
     <item>
       <title>Startujemy</title>
-      <link>https://aoperat.pl/blog/blog-post-1/</link>
+      <link>https://aoperat.pl/blog/start/</link>
       <pubDate>Wed, 27 Jan 2021 17:07:10 +0600</pubDate>
       
-      <guid>https://aoperat.pl/blog/blog-post-1/</guid>
-      <description></description>
+      <guid>https://aoperat.pl/blog/start/</guid>
+      <description>Wystartowaliśmy z pomysłem. Teraz bedziemy budować platformę. W planach mamy konsultacje z rzeczoznawcami, komornikami, przedstawicielami banków, praconikami gmin, indywidualnym inwestorami, prawnikami statystykami i innymi expertami z rynku nieruchomościowego i prawnego.</description>
     </item>
     
   </channel>

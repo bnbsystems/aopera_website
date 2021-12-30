@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>demo on A Operat .pl</title>
+    <link>https://aoperat.pl/tags/demo/</link>
+    <description>Recent content in demo on A Operat .pl</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pl-pl</language>
+    <copyright>Copyright &amp;copy; 2020 aoperat.pl Wszelkie prawa zastzerzone</copyright>
+    <lastBuildDate>Thu, 30 Dec 2021 14:07:10 +0600</lastBuildDate><atom:link href="https://aoperat.pl/tags/demo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mamy prototyp</title>
+      <link>https://aoperat.pl/blog/first-demo/</link>
+      <pubDate>Thu, 30 Dec 2021 14:07:10 +0600</pubDate>
+      
+      <guid>https://aoperat.pl/blog/first-demo/</guid>
+      <description>Przygotowaliśmy krótki filmik przedstawiający naszą platformę. Cały zespoł pracował nad pomysłem, implementacją, bezpieczeństwem danych, skalowalnością i uzytecznością dla klientów.</description>
+    </item>
+    
+  </channel>
+</rss>
