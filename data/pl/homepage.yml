@@ -5,7 +5,10 @@ banner:
   bg_overlay : true
   title : "ILE JEST WARTA TA NIERUCHOMOŚĆ"
   content : "Kochamy nieruchomości oraz pracę związaną z nimi. Pracujemy blisko z klientami, aby szybko dostarczyć operaty nieruchomości w sposób dokladny i ustandaryzowany."
-  
+  button:
+    enable : true
+    label : "Wyceń nieruchomość"
+    link : "https://forms.gle/hWLpbgDHWYJrHk9H8"
 
 ############################# About #################################
 about:
