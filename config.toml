@@ -171,26 +171,22 @@ name = "O Platformie"
 URL = "platform"
 weight = 3
 
-[[Languages.pl.menu.main]]
-name = "Wyceń nieruchomość"
-URL = "https://forms.gle/hWLpbgDHWYJrHk9H8"
-weight = 4
 
 [[Languages.pl.menu.main]]
 name = "Panel rzeczoznawcy"
 URL = "https://aoperat.azurewebsites.net/"
-weight = 5
+weight = 4
 
 [[Languages.pl.menu.main]]
 name = "Aktualności"
 URL = "blog"
-weight = 6
+weight = 5
 
 
 [[Languages.pl.menu.main]]
 name = "Kontakt"
 URL = "contact"
-weight = 7
+weight = 6
 
 
 
