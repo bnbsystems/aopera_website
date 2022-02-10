@@ -1,3 +1,12 @@
+############################### Banner ##############################
+banner:
+  enable : true
+  bg_image : "images/slider-bg.jpg"
+  bg_overlay : true
+  title : "ILE JEST WARTA TA NIERUCHOMOŚĆ"
+  content : "Kochamy nieruchomości oraz pracę związaną z nimi. Pracujemy blisko z klientami, aby szybko dostarczyć operaty nieruchomości w sposób dokladny i ustandaryzowany."
+  
+
 ############################# About #################################
 about:
   enable : true
