@@ -4,56 +4,25 @@
 service:
   enable : true
   title : "Typy operatów"
-  description : "Kazdy operat jest inny. My standaryzujemy wykonanie operatu."
+  description : "Każdy operat jest inny. My standaryzujemy wykonanie operatu. Kim są nasi klienci?"
   service_item:
-    - name: Mieszkanie
-      content: "Operat szacónkowy mieszkania"
-
-    - name: Dom
-      content: "Operat szacónkowy domu"
-
-    - name: Działka
-      content: "Operat szacónkowy działki budowlanej"
-
-    - name: Licytacja
-      content: "Operat szacónkowy dla licytacji"
-
-    - name: Pożyczka
-      content: "Operat szacónkowy dla pożyczkodawcy"
-
-    - name: Flip
-      content: "Operat szacónkowy dla potencjalnego inwestora"
-
-    - name: Aport
-      content: "Operat szacónkowy lokalu pod działalność gospodarczą"
-
-    - name: Rolnictwo
-      content: "Operat szacónkowy gospodarstwa rolnego"
-
-    - name: Wynajm
-      content: "Operat szacónkowy lokalu usługowego pod wynajm"
-
-    - name: Biuro
-      content: "Operat szacónkowy biurowca"
-
-    - name: Magazyny
-      content: "Operat szacónkowy hali produkcyjno-magazynowego"
-
-    - name: Rząd
-      content: "Operat szacónkowy dla instytucji państwowej"
-
-    - name: Spadek
-      content: "Operat szacónkowy dla spadkobiercy"
-
-    - name: Kamienica
-      content: "Operat szacónkowy kamienicy"
-
-    - name: Polisa
-      content: "Operat szacónkowy na polisę ubezpieczeniową"
-
-    - name: Dzierżawa
-      content: "Operat szacónkowy na potrzebę określenia opłat z dzierżawy wieczystej"
-
-    - name: Sąd
-      content: "Operat szacónkowy w postępowaniu sądowym"
-      
+    - name: Komornicy
+      content: "Dla licytacji"
+    - name: Banki
+      content: "Na kredyt hipoteczny"
+    - name: Gminy
+      content: "Na określenie opłat z dzierżawy wieczystej"
+    - name: Deweluperzy
+      content: "Do uzyskania kredytowania"
+    - name: Spółki
+      content: "Na wniesienie nieruchomości aportem"
+    - name: Spadkobiercy
+      content: "Na określenie wysokości spadku"
+    - name: Ubezpieczyciele
+      content: "Na polisę ubezpieczeniową"
+    - name: Sądy
+      content: "W postępowaniu sądowym"
+    - name: GDDKiA
+      content: "Inwestycje liniowe pod drogi"
+    - name: Urząd Skarbowy
+      content: "Kontrola wysokości podatków"

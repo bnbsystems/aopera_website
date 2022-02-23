@@ -149,7 +149,7 @@ languageCode = "pl-pl"
 contentDir = "content/polish"
 weight = 1
 # copyright
-copyright = "Copyright &copy; 2020 aoperat.pl Wszelkie prawa zastzerzone"
+copyright = "Copyright &copy; 2022 AOperat.pl Wszelkie prawa zastzerzone"
 
 
 ######################### polish navigation #############################
