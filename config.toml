@@ -206,3 +206,8 @@ weight = 2
 name = "Kontakt"
 URL = "contact"
 weight = 3
+
+[[Languages.pl.menu.footer]]
+name = "Regulamin"
+URL = "statute"
+weight = 4
