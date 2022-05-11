@@ -175,7 +175,7 @@ weight = 3
 
 [[Languages.pl.menu.main]]
 name = "Portal"
-URL = # "https://aoperat.azurewebsites.net/"
+URL = "https://aoperat.azurewebsites.net/"
 weight = 4
 
 [[Languages.pl.menu.main]]
