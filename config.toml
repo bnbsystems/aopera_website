@@ -84,8 +84,8 @@ author = "aoperat.pl"
 # Contact Information
 mobile = ""
 email = "kontakt [małpa] aoperat.pl"
-location = "" #"Unit 4e Enterprise Court, Farfield Park, Rotherham, S63 5DB, Wielka Brytania"
-company = "" # "BNB SYSTEMS LTD"
+location = "ul. Eugeniusza Kwiatkowskiego 9, 37-450 Stalowa Wola"
+company = "AOperat Prosta Spółka Akcyjna"
 # contact form action
 contact_form_action = "https://formspree.io/myykjpje" # contact form work's with : https://formspree.io
 # Google Analitycs
