@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>pl-pl</language>
     <copyright>Copyright &amp;copy; 2022 AOperat.pl Wszelkie prawa zastzerzone</copyright>
-    <lastBuildDate>Thu, 30 Dec 2021 14:07:10 +0600</lastBuildDate><atom:link href="https://aoperat.pl/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Jul 2022 18:07:10 +0600</lastBuildDate><atom:link href="https://aoperat.pl/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nasze Logo</title>
+      <link>https://aoperat.pl/blog/logo/</link>
+      <pubDate>Mon, 04 Jul 2022 18:07:10 +0600</pubDate>
+      
+      <guid>https://aoperat.pl/blog/logo/</guid>
+      <description>Wypór odpowiedniego Logaa dla firmy jest cieżki.
+Zespoł AOperat.pl</description>
+    </item>
+    
     <item>
       <title>Mamy prototyp</title>
       <link>https://aoperat.pl/blog/first-demo/</link>
